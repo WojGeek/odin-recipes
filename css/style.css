@@ -1,0 +1,82 @@
+  @import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Fira+Sans+Condensed:wght@200;300;400&family=Fugaz+One&family=Outfit:wght@300&family=Poller+One&display=swap');
+
+
+ /* Title  */
+.font-berkshire {
+    font-family: 'Berkshire Swash', serif;
+}
+
+ /* primary button  */
+.font-fugaz {
+    font-family: 'Fugaz One', sans-serif;
+}
+
+.font-fira {
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+.font-outfit {
+    font-family: 'Outfit', sans-serif;
+}
+
+.font-poller {
+    font-family: 'Poller One', serif;
+}
+  
+
+.primary-button {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    color: yellow;
+    font-weight: 400;
+    /* font-family: 'Fugaz One', sans-serif; */
+    font-size: 1.5em;
+
+}
+
+.secondary-button {
+    background-color: #0b5cf3; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+    font-weight: 400;
+    /* font-family: 'Fugaz One', sans-serif; */
+    font-size: 1.5em;
+
+}
+
+
+
+h1 {
+    font-family: 'Berkshire Swash', serif;
+    font-size: 2.8rem;
+    text-align: justify;
+  }
+
+  h2, h3, h4 {
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: 2rem;
+    text-align: justify;
+  }
+
+  p {
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.5rem;
+    text-align: justify;
+  }
+
+  li {
+    font-family: 'Poller One', serif;
+    font-size: 1.5rem;
+  }
